@@ -17,3 +17,7 @@ To launch this project first of all download the application and run the "App" c
 How it looks like
 
 123
+
+## Features
+
+New pull command to intellij
